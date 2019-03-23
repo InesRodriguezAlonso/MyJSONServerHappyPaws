@@ -1,5 +1,6 @@
 {
-	"adoptions": [{
+	"adoptions": {
+		"adoptions": [{
 				"petId": 1,
 				"petName": "Simba",
 				"petAge": "9 years",
@@ -124,60 +125,64 @@
 				"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296",
 				"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296"
 			}
-		], "lost": [{
-				"petId": 1,
-				"petName": "Forte",
-				"petAge": "9 years",
-				"petType": 2,
-				"petGender": 2,
-				"petRegistrationDate": 1379887200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_345/a_3451551024413.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_345/thumbnail.jpg"
-			}, {
-				"petId": 2,
-				"petName": "Floki",
-				"petBreed": "Galgo",
-				"petType": 2,
-				"petGender": 2,
-				"petRegistrationDate": 1370027200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_341/a_3411547919119.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_341/thumbnail.jpg"
-			}, {
-				"petId": 3,
-				"petName": "Bella",
-				"petBreed": "Mixed breed",
-				"petType": 2,
-				"petGender": 1,
-				"petRegistrationDate": 1378027200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_344/a_3441549042751.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_344/thumbnail.jpg"
-			}, {
-				"petId": 4,
-				"petName": "Mia",
-				"petBreed": "Mixed breed",
-				"petGender": 1,
-				"petType": 2,
-				"petRegistrationDate": 1373087200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_302/a_3021510427778.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_302/thumbnail.jpg"
-			}, {
-				"petId": 5,
-				"petName": "Bel",
-				"petBreed": "Common European",
-				"petGender": 2,
-				"petType": 1,
-				"petRegistrationDate": 1332533500000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_5/a_51390757110.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_5/thumbnail.jpg"
-			}, {
-				"petId": 6,
-				"petName": "Bunny",
-				"petBreed": "Wild Rabbit",
-				"petGender": 1,
-				"petType": 3,
-				"petRegistrationDate": 1332533500000,
-				"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
-				"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
-			}
 		]
+
+	},
+	"lost": {
+		"lost": [{
+			"petId": 1,
+			"petName": "Forte",
+			"petAge": "9 years",
+			"petType": 2,
+			"petGender": 2,
+			"petRegistrationDate": 1379887200000,
+			"petProfileUrl": "http://arcadenoe.org/imas/animales/_345/a_3451551024413.jpg",
+			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_345/thumbnail.jpg"
+		}, {
+			"petId": 2,
+			"petName": "Floki",
+			"petBreed": "Galgo",
+			"petType": 2,
+			"petGender": 2,
+			"petRegistrationDate": 1370027200000,
+			"petProfileUrl": "http://arcadenoe.org/imas/animales/_341/a_3411547919119.jpg",
+			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_341/thumbnail.jpg"
+		}, {
+			"petId": 3,
+			"petName": "Bella",
+			"petBreed": "Mixed breed",
+			"petType": 2,
+			"petGender": 1,
+			"petRegistrationDate": 1378027200000,
+			"petProfileUrl": "http://arcadenoe.org/imas/animales/_344/a_3441549042751.jpg",
+			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_344/thumbnail.jpg"
+		}, {
+			"petId": 4,
+			"petName": "Mia",
+			"petBreed": "Mixed breed",
+			"petGender": 1,
+			"petType": 2,
+			"petRegistrationDate": 1373087200000,
+			"petProfileUrl": "http://arcadenoe.org/imas/animales/_302/a_3021510427778.jpg",
+			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_302/thumbnail.jpg"
+		}, {
+			"petId": 5,
+			"petName": "Bel",
+			"petBreed": "Common European",
+			"petGender": 2,
+			"petType": 1,
+			"petRegistrationDate": 1332533500000,
+			"petProfileUrl": "http://arcadenoe.org/imas/animales/_5/a_51390757110.jpg",
+			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_5/thumbnail.jpg"
+		}, {
+			"petId": 6,
+			"petName": "Bunny",
+			"petBreed": "Wild Rabbit",
+			"petGender": 1,
+			"petType": 3,
+			"petRegistrationDate": 1332533500000,
+			"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
+			"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
+		}]
+	}
 }
