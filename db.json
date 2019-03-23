@@ -1,5 +1,5 @@
 {
-  "data" : 
+  "data" :  [
   {
     "adoptions":
       [
@@ -183,6 +183,8 @@
         "petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
         "petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
       }     
+    ]
+  }
     ]
 }
 }
