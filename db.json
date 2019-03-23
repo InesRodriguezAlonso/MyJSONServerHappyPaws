@@ -125,29 +125,6 @@
       "petRegistrationDate": 1332533500000,
       "petProfileUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296",
       "petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296",
-    } ,  {
-      "petId": 11,
-      "petName": "Mr. Jingle",
-      "petAge": "2  years and 9 months",
-      "petBreed": "Wild Rabbit",   
-      "petGender": "Male",
-      "petType": "Rabbit",   
-"petDescription": "He is a nice, affectionate and curious rabbit that was picked up on Christmas Eve in a vacant lot in Madrid. I was in a sorry state. He smelled very bad because he peed on himself and he was very thin. Now he is recovered. Despite everything that has happened, he is a trusting rabbit who loves to receive pampering and kisses. It is also very clean. It deserves a definite home after everything that has happened.",
-      "petRegistrationDate": 1356533500000,
-      "petProfileUrl": "http://www.madrigueraweb.org/system/fotos/3034/medium/mr.jpg?1540914416",
-      "petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/3034/medium/mr.jpg?1540914416",
-    }    
-,  {
-      "petId": 12,
-      "petName": "Jelly",
-      "petAge": "1 year and 9 months",
-      "petBreed": "Wild Rabbit",   
-      "petGender": "Female",
-      "petType": "Rabbit",   
-"petDescription": "She was born in the kennel and was the only survivor of a litter that her mother, Aretha, rejected. She is a very happy rabbit, restless, funny and gluttonous.",
-      "petRegistrationDate": 135532500000,
-      "petProfileUrl": "http://www.madrigueraweb.org/system/fotos/3084/medium/gominola.jpg?1547404841",
-      "petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/3084/medium/gominola.jpg?1547404841",
-    }                      ],
-  "resultsCount": 12
+    }     
+]
 }
