@@ -1,4 +1,5 @@
 {
+  "data":{
   "results": [
     {
       "petId": 1,
@@ -7,10 +8,23 @@
       "petBreed": "Mixed breed",   
       "petType": "Dog",   
       "petGender": "Male",
-      "petDescription": "Simba has always lived with an old lady but can no longer take care of him, so that he did not end up in the kennel we have taken over. He is a calm and adult dog, he does not know what it is to live in a shelter when he was always in a house. He is polite although he is overwhelmed when it is necessary to put the strap on him since he had always left loose. He does not deserve to finish his last years without a family.",
+      "petDescription": "Simba has always lived with an old lady but can no longer take care of him, so that he did not end up in the kennel we have taken over. He is a calm and adult dog, he does not know what it is to live in a shelter when he was always in a house. He does not deserve to finish his last years without a family.",
+      "petRegistrationDate": 1379887200000,
+      "petProfileUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg",
+      "petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg"
+    },
+    {
+      "petId": 1,
+      "petName": "Simba",
+      "petAge": "9 years",
+      "petBreed": "Mixed breed",   
+      "petType": "Dog",   
+      "petGender": "Male",
+      "petDescription": "Simba has always lived with an old lady but can no longer take care of him, so that he did not end up in the kennel we have taken over. He is a calm and adult dog, he does not know what it is to live in a shelter when he was always in a house. He does not deserve to finish his last years without a family.",
       "petRegistrationDate": 1379887200000,
       "petProfileUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg",
       "petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg"
     }
   ]
+  }
 }
