@@ -183,6 +183,15 @@
 			"petRegistrationDate": 1332533500000,
 			"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
 			"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
+		},{
+			"petId": 7,
+			"petName": "Bunny",
+			"petBreed": "Wild Rabbit",
+			"petGender": 1,
+			"petType": 3,
+			"petRegistrationDate": 1332533500000,
+			"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
+			"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
 		}]
 	}
 }
