@@ -1,6 +1,6 @@
 {
 	"data": {
-		"results": [{
+		"adoptions": [{
 				"petId": 1,
 				"petName": "Simba",
 				"petAge": "9 years",
