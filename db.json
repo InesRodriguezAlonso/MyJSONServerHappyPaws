@@ -1,6 +1,5 @@
 {
-	"data": {
-		"adoptions": [{
+	"adoptions": [{
 				"petId": 1,
 				"petName": "Simba",
 				"petAge": "9 years",
@@ -181,5 +180,4 @@
 				"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
 			}
 		]
-	}
 }
