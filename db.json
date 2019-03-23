@@ -1,5 +1,6 @@
 {
-  "results": [
+  "results": {
+    [
     {
       "petId": 1,
       "petName": "Simba",
@@ -123,4 +124,5 @@
       "petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296"
     }     
   ]
+     }
  }
