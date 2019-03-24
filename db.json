@@ -1,216 +1,224 @@
 {
-	"adoptions": {
-		"adoptions": [{
-				"petId": 1,
-				"petName": "Simba",
-				"petAge": "9 years",
-				"petBreed": "Mixed breed",
-				"petType": "2",
-				"petGender": "2",
-				"petDescription": "Simba has always lived with an old lady but can no longer take care of him, so that he did not end up in the kennel we have taken over. He is a calm and adult dog, he does not know what it is to live in a shelter when he was always in a house. He does not deserve to finish his last years without a family.",
-				"petRegistrationDate": 1379887200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg"
-			},
-			{
-				"petId": 2,
-				"petName": "Bones",
-				"petAge": "6 years and 5 months",
-				"petBreed": "Mixed breed",
-				"petType": "2",
-				"petGender": "2",
-				"petDescription": "Bones is alone again.This little boy entered the ward in 2014, and a few months later he was adopted.He found someone who cared for him, and both loved each other as one can only want a dog and a good person. The owner has died in an accident and Bones has been left alone. Unfortunately, now all we can do is fight so that as soon as possible I will be with a family again. We know it will be soon because an angel will undoubtedly continue to take care of him.",
-				"petRegistrationDate": 1370027200000,
-				"petProfileUrl": "http://arcadenoe.org//imas/animales/_93/a_931548600736.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org//imas/animales/_93/a_931548600736.jpg"
-			},
-			{
-				"petId": 3,
-				"petName": "Elsa",
-				"petAge": "7 years and 1 month",
-				"petBreed": "Mixed breed",
-				"petType": "2",
-				"petGender": "1",
-				"petDescription": "Elsa is a dog that we took out of the kennel, we had gone to pick up another dog when we passed near her cage and we saw her cornered and shaking. We could not leave her there. It is very good and quiet.It is major, we have done a general and disease analysis to see how it is, and is very healthy. This grandmother needs a family I assure you that you will fall in love with her, she is super grateful.",
-				"petRegistrationDate": 1378027200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_344/a_3441549042751.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_344/a_3441549042751.jpg"
-			},
-			{
-				"petId": 4,
-				"petName": "Lima",
-				"petAge": "6 years and 5 months",
-				"petBreed": "Bodeguero",
-				"petGender": "1",
-				"petType": "2",
-				"petDescription": "Lima lived all his life in a school farm where he was happy and welcomed with affection all those who passed by, whether they were people or animals. Now she is with us, she is safe again, however she remains very sad, longs for her former owners and does not stop losing her fear. That is why it is important that you find a home as soon as possible where you can trust in the human being again. She is very good and sociable.",
-				"petRegistrationDate": 1373087200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_335/a_3351549793480.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_335/a_3351549793480.jpg"
-			}, {
-				"petId": 5,
-				"petName": "Sira",
-				"petAge": "2 years",
-				"petBreed": "Mixed breed",
-				"petGender": "1",
-				"petType": "2",
-				"petDescription": "We have to find her family, she is an admirable, good and affectionate dog, beautiful and playful but she knows how to behave and be calm when it is necessary to be.",
-				"petRegistrationDate": 1473087200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_327/a_3271549793163.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_327/a_3271549793163.jpg"
-			}, {
-				"petId": 6,
-				"petName": "Cottom",
-				"petAge": "2 years and 4 months",
-				"petBreed": "Tabby Siamese",
-				"petGender": "1",
-				"petType": "1",
-				"petDescription": "Cotton is very affectionate, loves pampering and keeping company on the lap is special for the sofa!.",
-				"petRegistrationDate": 1473517200000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_212/a_2121431193268.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_212/a_2121431193268.jpg"
-			}, {
-				"petId": 7,
-				"petName": "Atenea",
-				"petAge": "4 years and 2 months",
-				"petBreed": "Persian",
-				"petGender": "1",
-				"petType": "1",
-				"petDescription": "Athena is an abandoned homemade cat, she is very good, calm and affectionate and she has very soft hair!",
-				"petRegistrationDate": 1473513800000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_217/a_2171432754091.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_217/a_2171432754091.jpg"
-			}, {
-				"petId": 8,
-				"petName": "Miko",
-				"petAge": "9 years and 6 months",
-				"petBreed": "Tabby",
-				"petGender": "2",
-				"petType": "1",
-				"petDescription": "Rescued from some gardens being a baby where the neighbors do not want the cats and call the kennel continuously. Sometimes it's a little scary.",
-				"petRegistrationDate": 1213513800000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_49/a_491393496950.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_49/a_491393496950.jpg"
-			}, {
-				"petId": 9,
-				"petName": "Caty",
-				"petAge": "2 years and 9 months",
-				"petBreed": "Common European",
-				"petGender": "1",
-				"petType": "1",
-				"petDescription": "This little girl is very sociable and affectionate, she never tires of giving and asking for pampering. His meow is very funny.",
-				"petRegistrationDate": 1332513800000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_23/a_231392746166.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_23/a_231392746166.jpg"
-			}, {
-				"petId": 10,
-				"petName": "Anibal",
-				"petAge": "10 years and 9 months",
-				"petBreed": "Common European",
-				"petGender": "2",
-				"petType": "1",
-				"petDescription": "Character:Distrustful, elusive, easily startled and does not trust people, but it is not a cat that tries to scratch or bite",
-				"petRegistrationDate": 1332533500000,
-				"petProfileUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg",
-				"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg"
-			}, {
-				"petId": 11,
-				"petName": "Tanita",
-				"petAge": "2  years and 9 months",
-				"petBreed": "Wild Rabbit",
-				"petGender": "1",
-				"petType": "3",
-				"petDescription": "She was born from one of the females rescued from the park of 100 rabbits.She does not let herself get caught and she is scary with people. However, he gets along very well with other rabbits. She needs to be adopted by someone who looks for another rabbit and does not mind that she is not very affectionate",
-				"petRegistrationDate": 1332533500000,
-				"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296",
-				"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296"
-			}
-		]
-
-	},
-	"lost": {
-		"lost": [{
-			"petId": 1,
-			"petName": "Forte",
-			"petAge": "9 years",
-			"petType": 2,
-			"petGender": 2,
-			"petLostPlace": "Malaga",
-			"petLostDate": 1379887200000,
-			"petProfileUrl": "http://arcadenoe.org/imas/animales/_345/a_3451551024413.jpg",
-			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_345/thumbnail.jpg"
+	"adoptionList": [
+		{
+			"id": 1,
+			"name": "Simba",
+			"ageMonths": 108,
+			"breed": "Mixed breed",
+			"type": "2",
+			"gender": "2",
+			"description": "Simba has always lived with an old lady but can no longer take care of him, so that he did not end up in the kennel we have taken over. He is a calm and adult dog, he does not know what it is to live in a shelter when he was always in a house. He does not deserve to finish his last years without a family.",
+			"registrationDate": 1379887200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_346/a_3461551024296.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Bones",
+			"ageMonths": 77,
+			"breed": "Mixed breed",
+			"type": "2",
+			"gender": "2",
+			"description": "Bones is alone again.This little boy entered the ward in 2014, and a few months later he was adopted.He found someone who cared for him, and both loved each other as one can only want a dog and a good person. The owner has died in an accident and Bones has been left alone. Unfortunately, now all we can do is fight so that as soon as possible I will be with a family again. We know it will be soon because an angel will undoubtedly continue to take care of him.",
+			"registrationDate": 1370027200000,
+			"profileUrl": "http://arcadenoe.org//imas/animales/_93/a_931548600736.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org//imas/animales/_93/a_931548600736.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Elsa",
+			"ageMonths": 85,
+			"breed": "Mixed breed",
+			"type": "2",
+			"gender": "1",
+			"description": "Elsa is a dog that we took out of the kennel, we had gone to pick up another dog when we passed near her cageMonths and we saw her cornered and shaking. We could not leave her there. It is very good and quiet.It is major, we have done a general and disease analysis to see how it is, and is very healthy. This grandmother needs a family I assure you that you will fall in love with her, she is super grateful.",
+			"registrationDate": 1378027200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_344/a_3441549042751.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_344/a_3441549042751.jpg"
+		},
+		{
+			"id": 4,
+			"name": "Lima",
+			"ageMonths": 77,
+			"breed": "Bodeguero",
+			"gender": "1",
+			"type": "2",
+			"description": "Lima lived all his life in a school farm where he was happy and welcomed with affection all those who passed by, whether they were people or animals. Now she is with us, she is safe again, however she remains very sad, longs for her former owners and does not stop losing her fear. That is why it is important that you find a home as soon as possible where you can trust in the human being again. She is very good and sociable.",
+			"registrationDate": 1373087200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_335/a_3351549793480.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_335/a_3351549793480.jpg"
 		}, {
-			"petId": 2,
-			"petName": "Floki",
-			"petBreed": "Galgo",
-			"petType": 2,
-			"petGender": 2,
-			"petLostPlace": "Sevilla",
-			"petLostDate": 1370027200000,
-			"petProfileUrl": "http://arcadenoe.org/imas/animales/_341/a_3411547919119.jpg",
-			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_341/thumbnail.jpg"
-		},{
-			"petId": 3,
-			"petName": "Bunny",
-			"petBreed": "Wild Rabbit",
-			"petGender": 1,
-			"petType": 3,
-			"petLostPlace": "Koeln",
-			"petLostDate": 1332533500000,
-			"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
-			"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
+			"id": 5,
+			"name": "Sira",
+			"ageMonths": 24,
+			"breed": "Mixed breed",
+			"gender": "1",
+			"type": "2",
+			"description": "We have to find her family, she is an admirable, good and affectionate dog, beautiful and playful but she knows how to behave and be calm when it is necessary to be.",
+			"registrationDate": 1473087200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_327/a_3271549793163.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_327/a_3271549793163.jpg"
 		}, {
-			"petId": 4,
-			"petName": "Bella",
-			"petBreed": "Mixed breed",
-			"petType": 2,
-			"petGender": 1,
-			"petLostPlace": "Koeln",
-			"petLostDate": 1378027200000,
-			"petProfileUrl": "http://arcadenoe.org/imas/animales/_328/a_3281539339450.jpg",
-			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_328/thumbnail.jpg"
+			"id": 6,
+			"name": "Cottom",
+			"ageMonths": 28,
+			"breed": "Tabby Siamese",
+			"gender": "1",
+			"type": "1",
+			"description": "Cotton is very affectionate, loves pampering and keeping company on the lap is special for the sofa!.",
+			"registrationDate": 1473517200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_212/a_2121431193268.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_212/a_2121431193268.jpg"
 		}, {
-			"petId": 5,
-			"petName": "Mia",
-			"petBreed": "Mixed breed",
-			"petGender": 1,
-			"petType": 2,
-			"petLostPlace": "Hamburg",
-			"petLostDate": 1373087200000,
-			"petProfileUrl": "http://arcadenoe.org/imas/animales/_302/a_3021510427778.jpg",
-			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_302/thumbnail.jpg"
+			"id": 7,
+			"name": "Atenea",
+			"ageMonths": 50,
+			"breed": "Persian",
+			"gender": "1",
+			"type": "1",
+			"description": "Athena is an abandoned homemade cat, she is very good, calm and affectionate and she has very soft hair!",
+			"registrationDate": 1473513800000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_217/a_2171432754091.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_217/a_2171432754091.jpg"
 		}, {
-			"petId": 6,
-			"petName": "Bel",
-			"petBreed": "Common European",
-			"petGender": 2,
-			"petType": 1,
-			"petLostDate": 1332533500000,
-			"petLostPlace": "Sevilla",
-			"petProfileUrl": "http://arcadenoe.org/imas/animales/_5/a_51390757110.jpg",
-			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_5/thumbnail.jpg"
-		} ]
-	},
-	"locations": {
-		"locations": [{
-			"locationId": 1,
-			"locationCity": "Seville",
-			"locationLat": "37.38283837904233",
-			"locationLon": "-5.990109562652719",
-            "locationAddress": "Calle San Fernando, 27, 41004 Sevilla"
+			"id": 8,
+			"name": "Miko",
+			"ageMonths": 108,
+			"breed": "Tabby",
+			"gender": "2",
+			"type": "1",
+			"description": "Rescued from some gardens being a baby where the neighbors do not want the cats and call the kennel continuously. Sometimes it's a little scary.",
+			"registrationDate": 1213513800000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_49/a_491393496950.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_49/a_491393496950.jpg"
 		}, {
-			"locationId": 2,
-			"locationCity": "Koeln",
-			"locationLat": "50.973476",
-			"locationLon": "6.960289",
-            "locationAddress": "Niehl, 50735 Colonia, Alemania"
+			"id": 9,
+			"name": "Caty",
+			"ageMonths": 33,
+			"breed": "Common European",
+			"gender": "1",
+			"type": "1",
+			"description": "This little girl is very sociable and affectionate, she never tires of giving and asking for pampering. His meow is very funny.",
+			"registrationDate": 1332513800000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_23/a_231392746166.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_23/a_231392746166.jpg"
 		}, {
-			"locationId": 3,
-			"locationCity": "Malaga",
-			"locationLat": "36.712706",
-			"locationLon": "-4.432033",
-            "locationAddress": "Explanada de la Estación, s/n, 29002 Málaga"
-		}
-		]
-	}
+			"id": 10,
+			"name": "Anibal",
+			"ageMonths": 129,
+			"breed": "Common European",
+			"gender": "2",
+			"type": "1",
+			"description": "Character:Distrustful, elusive, easily startled and does not trust people, but it is not a cat that tries to scratch or bite",
+			"registrationDate": 1332533500000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg"
+		}, {
+			"id": 11,
+			"name": "Tanita",
+			"ageMonths": 33,
+			"breed": "Wild Rabbit",
+			"gender": "1",
+			"type": "3",
+			"description": "She was born from one of the females rescued from the park of 100 rabbits.She does not let herself get caught and she is scary with people. However, he gets along very well with other rabbits. She needs to be adopted by someone who looks for another rabbit and does not mind that she is not very affectionate",
+			"registrationDate": 1332533500000,
+			"profileUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296",
+			"profileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296"
+		}],
+	"lostList": [
+		{
+			"id": 1,
+			"name": "Forte",
+			"ageMonths": 90,
+			"breed": "Mixed breed",
+			"type": 2,
+			"description": "",
+			"gender": 2,
+			"lostLocation": "Malaga",
+			"lostDate": 1379887200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_345/a_3451551024413.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_345/thumbnail.jpg"
+		}, {
+			"id": 2,
+			"name": "Floki",
+			"ageMonths": 19,
+			"breed": "Galgo",
+			"type": 2,
+			"description": "",
+			"gender": 2,
+			"lostLocation": "Sevilla",
+			"lostDate": 1370027200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_341/a_3411547919119.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_341/thumbnail.jpg"
+		}, {
+			"id": 3,
+			"name": "Bunny",
+			"ageMonths": 20,
+			"breed": "Wild Rabbit",
+			"gender": 1,
+			"type": 3,
+			"description": "",
+			"lostLocation": "Koeln",
+			"lostDate": 1332533500000,
+			"profileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
+			"profileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
+		}, {
+			"id": 4,
+			"name": "Bella",
+			"ageMonths": 22,
+			"breed": "Mixed breed",
+			"type": 2,
+			"description": "",
+			"gender": 1,
+			"lostLocation": "Koeln",
+			"lostDate": 1378027200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_328/a_3281539339450.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_328/thumbnail.jpg"
+		}, {
+			"id": 5,
+			"name": "Mia",
+			"ageMonths": 23,
+			"breed": "Mixed breed",
+			"gender": 1,
+			"type": 2,
+			"description": "",
+			"lostLocation": "Hamburg",
+			"lostDate": 1373087200000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_302/a_3021510427778.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_302/thumbnail.jpg"
+		}, {
+			"id": 6,
+			"name": "Bel",
+			"ageMonths": 24,
+			"breed": "Common European",
+			"gender": 2,
+			"type": 1,
+			"description": "",
+			"lostDate": 1332533500000,
+			"lostLocation": "Sevilla",
+			"profileUrl": "http://arcadenoe.org/imas/animales/_5/a_51390757110.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_5/thumbnail.jpg"
+		}],
+	"locationList": [
+		{
+			"id": 1,
+			"city": "Seville",
+			"lat": "37.38283837904233",
+			"long": "-5.990109562652719",
+			"address": "Calle San Fernando, 27, 41004 Sevilla"
+		}, 
+		{
+			"id": 2,
+			"city": "Koeln",
+			"lat": "50.973476",
+			"long": "6.960289",
+			"address": "Niehl, 50735 Colonia, Alemania"
+		}, 
+		{
+			"id": 3,
+			"city": "Malaga",
+			"lat": "36.712706",
+			"long": "-4.432033",
+			"address": "Explanada de la Estación, s/n, 29002 Málaga"
+		}]
 }
