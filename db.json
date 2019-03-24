@@ -132,10 +132,10 @@
 			"ageMonths": 90,
 			"breed": "Mixed breed",
 			"type": 2,
-			"description": "",
+			"description": "Lost yesterday. It has a chip and red harness.",
 			"gender": 2,
 			"lostLocation": "Malaga",
-			"lostDate": 1379887200000,
+			"registrationDate": 1379887200000,
 			"profileUrl": "http://arcadenoe.org/imas/animales/_345/a_3451551024413.jpg",
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_345/thumbnail.jpg"
 		}, {
@@ -144,10 +144,10 @@
 			"ageMonths": 19,
 			"breed": "Galgo",
 			"type": 2,
-			"description": "",
+			"description": "Lost a week ago. Without chip and without collar.",
 			"gender": 2,
 			"lostLocation": "Sevilla",
-			"lostDate": 1370027200000,
+			"registrationDate": 1370027200000,
 			"profileUrl": "http://arcadenoe.org/imas/animales/_341/a_3411547919119.jpg",
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_341/thumbnail.jpg"
 		}, {
@@ -157,9 +157,9 @@
 			"breed": "Wild Rabbit",
 			"gender": 1,
 			"type": 3,
-			"description": "",
+			"description": "Lost two days ago. Gray collar.",
 			"lostLocation": "Koeln",
-			"lostDate": 1332533500000,
+			"registrationDate": 1332533500000,
 			"profileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
 			"profileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
 		}, {
@@ -168,10 +168,10 @@
 			"ageMonths": 22,
 			"breed": "Mixed breed",
 			"type": 2,
-			"description": "",
+			"description": "Lost two days ago. Black collar.",
 			"gender": 1,
 			"lostLocation": "Koeln",
-			"lostDate": 1378027200000,
+			"registrationDate": 1378027200000,
 			"profileUrl": "http://arcadenoe.org/imas/animales/_328/a_3281539339450.jpg",
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_328/thumbnail.jpg"
 		}, {
@@ -181,9 +181,9 @@
 			"breed": "Mixed breed",
 			"gender": 1,
 			"type": 2,
-			"description": "",
+			"description": "Lost two days ago. Black collar.",
 			"lostLocation": "Hamburg",
-			"lostDate": 1373087200000,
+			"registrationDate": 1373087200000,
 			"profileUrl": "http://arcadenoe.org/imas/animales/_302/a_3021510427778.jpg",
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_302/thumbnail.jpg"
 		}, {
@@ -193,8 +193,8 @@
 			"breed": "Common European",
 			"gender": 2,
 			"type": 1,
-			"description": "",
-			"lostDate": 1332533500000,
+			"description": "Lost two weeks ago. White collar.",
+			"registrationDate": 1332533500000,
 			"lostLocation": "Sevilla",
 			"profileUrl": "http://arcadenoe.org/imas/animales/_5/a_51390757110.jpg",
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_5/thumbnail.jpg"
