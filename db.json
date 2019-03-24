@@ -220,5 +220,12 @@
 			"lat": "36.712706",
 			"long": "-4.432033",
 			"address": "Explanada de la Estación, s/n, 29002 Málaga"
+		}, 
+		{
+			"id": 4,
+			"city": "Hamburg",
+			"lat": "53.545689",
+			"long": "9.991352",
+			"address": "Reimerstwiete 120457 Hamburg Alemania"
 		}]
 }
