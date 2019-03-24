@@ -192,6 +192,25 @@
 		} ]
 	},
 	"locations": {
-		"locations": [{}]
+		"locations": [{
+			"locationId": 1,
+			"locationCity": "Seville",
+			"locationLat": "37.38283837904233",
+			"locationLon": "-5.990109562652719",
+            "locationAddress": "Calle San Fernando, 27, 41004 Sevilla"
+		}, {
+			"locationId": 2,
+			"locationCity": "Koeln",
+			"locationLat": "50.973476",
+			"locationLon": "6.960289",
+            "locationAddress": "Niehl, 50735 Colonia, Alemania"
+		}, {
+			"locationId": 3,
+			"locationCity": "Malaga",
+			"locationLat": "36.712706",
+			"locationLon": "-4.432033",
+            "locationAddress": "Explanada de la Estación, s/n, 29002 Málaga"
+		}
+		]
 	}
 }
