@@ -135,7 +135,8 @@
 			"petAge": "9 years",
 			"petType": 2,
 			"petGender": 2,
-			"petRegistrationDate": 1379887200000,
+			"petLostPlace": "Malaga",
+			"petLostDate": 1379887200000,
 			"petProfileUrl": "http://arcadenoe.org/imas/animales/_345/a_3451551024413.jpg",
 			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_345/thumbnail.jpg"
 		}, {
@@ -144,7 +145,8 @@
 			"petBreed": "Galgo",
 			"petType": 2,
 			"petGender": 2,
-			"petRegistrationDate": 1370027200000,
+			"petLostPlace": "Sevilla",
+			"petLostDate": 1370027200000,
 			"petProfileUrl": "http://arcadenoe.org/imas/animales/_341/a_3411547919119.jpg",
 			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_341/thumbnail.jpg"
 		}, {
@@ -153,7 +155,8 @@
 			"petBreed": "Mixed breed",
 			"petType": 2,
 			"petGender": 1,
-			"petRegistrationDate": 1378027200000,
+			"petLostPlace": "Koeln",
+			"petLostDate": 1378027200000,
 			"petProfileUrl": "http://arcadenoe.org/imas/animales/_328/a_3281539339450.jpg",
 			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_328/thumbnail.jpg"
 		}, {
@@ -162,7 +165,8 @@
 			"petBreed": "Mixed breed",
 			"petGender": 1,
 			"petType": 2,
-			"petRegistrationDate": 1373087200000,
+			"petLostPlace": "Hamburg",
+			"petLostDate": 1373087200000,
 			"petProfileUrl": "http://arcadenoe.org/imas/animales/_302/a_3021510427778.jpg",
 			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_302/thumbnail.jpg"
 		}, {
@@ -171,7 +175,8 @@
 			"petBreed": "Common European",
 			"petGender": 2,
 			"petType": 1,
-			"petRegistrationDate": 1332533500000,
+			"petLostDate": 1332533500000,
+			"petLostPlace": "Sevilla",
 			"petProfileUrl": "http://arcadenoe.org/imas/animales/_5/a_51390757110.jpg",
 			"petProfileThumbnailUrl": "http://arcadenoe.org/imas/animales/_5/thumbnail.jpg"
 		}, {
@@ -180,9 +185,10 @@
 			"petBreed": "Wild Rabbit",
 			"petGender": 1,
 			"petType": 3,
-			"petRegistrationDate": 1332533500000,
+			"petLostPlace": "Koeln",
+			"petLostDate": 1332533500000,
 			"petProfileUrl": "http://www.madrigueraweb.org/system/fotos/1579/medium/maggy2.jpg?1379501964",
 			"petProfileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/1579/mini/maggy2.jpg?1379501964"
 		}]
-	}
+	},"lostplaces": {}
 }
