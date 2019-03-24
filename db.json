@@ -2,7 +2,7 @@
 	"adoptions": {
 		"adoptions": [{
 				"petId": 1,
-				"petName": "Simba test",
+				"petName": "Simba",
 				"petAge": "9 years",
 				"petBreed": "Mixed breed",
 				"petType": "2",
