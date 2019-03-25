@@ -227,6 +227,17 @@
 			"lat": "53.545689",
 			"long": "9.991352",
 			"address": "Reimerstwiete 120457 Hamburg Alemania"
+		}{
+			"id": 5,
+			"name": "Snoopy",
+			"ageMonths": 10,
+			"breed": "Common European",
+			"gender": "2",
+			"type": "1",
+			"description": "Character:Distrustful, elusive, easily startled and does not trust people, but it is not a cat that tries to scratch or bite",
+			"registrationDate": 1332533500000,
+			"profileUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg",
+			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg"
 		}],
 		"adoptionRequestList": [
 			{
