@@ -113,18 +113,7 @@
 			"registrationDate": 1332533500000,
 			"profileUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg",
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg"
-		}, {
-			"id": 11,
-			"name": "Tanita",
-			"ageMonths": 33,
-			"breed": "Wild Rabbit",
-			"gender": "1",
-			"type": "3",
-			"description": "She was born from one of the females rescued from the park of 100 rabbits.She does not let herself get caught and she is scary with people. However, he gets along very well with other rabbits. She needs to be adopted by someone who looks for another rabbit and does not mind that she is not very affectionate",
-			"registrationDate": 1332533500000,
-			"profileUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296",
-			"profileThumbnailUrl": "http://www.madrigueraweb.org/system/fotos/2689/medium/Tanita.jpg?1491764296"
-		}],
+		}, ],
 	"lostList": [
 		{
 			"id": 1,
@@ -240,13 +229,6 @@
 			"profileThumbnailUrl": "http://arcadenoe.org/imas/animales/_2/a_21390753482.jpg"
 		}],
 		"adoptionRequestList": [
-			{
-			"applicantName": "David",
-			"applicantAddress": "Hamburg",
-			"applicantEmail": "53.545689",
-			"applicantPhoneNumber": "+123456789",
-			"applicantDescription": "Reimerstwiete 120457 Hamburg Alemania",
-			"petId": "1"
-		}
+			
 		]
 }
