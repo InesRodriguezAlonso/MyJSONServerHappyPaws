@@ -228,14 +228,15 @@
 			"long": "9.991352",
 			"address": "Reimerstwiete 120457 Hamburg Alemania"
 		}],
-		"adoptionRequestList": [{
+		"adoptionRequestList": [
+			{
 			"applicantName": "David",
 			"applicantAddress": "Hamburg",
 			"applicantEmail": "53.545689",
 			"applicantPhoneNumber": "+123456789",
 			"applicantDescription": "Reimerstwiete 120457 Hamburg Alemania",
 			"petId": "1"
-			
-}
+		
+		}
 		]
 }
